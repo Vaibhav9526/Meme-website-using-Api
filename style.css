@@ -1,0 +1,42 @@
+body {
+  background: rgb(180, 180, 180);
+  background-image: url("https://www.pngmart.com/files/13/Elegant-Pattern-PNG-Picture.png");
+}
+.container {
+  width: 100%;
+  height: 90vh;
+  display: grid;
+  place-items: center;
+  align-items: center;
+  /* background: url("https://www.transparentpng.com/thumb/pattern/t6BHdn-pattern-clipart-ornamental-pattern-ornamental-transparent.png"); */
+}
+img {
+  width: 80vw;
+  height: 50vh;
+}
+button {
+  padding: 1rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  border-radius: 1vw;
+  box-shadow: 5px 5px 5px black;
+  color: white;
+  background: #00092c;
+  border: none;
+}
+@media screen and (min-width: 480px) {
+  img {
+    width: 20rem;
+    height: 20rem;
+  }
+}
+h1 {
+  padding: 1rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  border-radius: 1vw;
+  background: rgba(0, 0, 0, 0.788);
+  box-shadow: 5px 5px 5px rgb(0, 0, 0);
+  color: rgb(245, 245, 245);
+  font-family: sans-serif;
+}
