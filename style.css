@@ -1,6 +1,5 @@
 body {
-  background: rgb(180, 180, 180);
-  background-image: url("https://www.pngmart.com/files/13/Elegant-Pattern-PNG-Picture.png");
+  background-image: url("/bg.jpg");
 }
 .container {
   width: 100%;
@@ -8,7 +7,6 @@ body {
   display: grid;
   place-items: center;
   align-items: center;
-  /* background: url("https://www.transparentpng.com/thumb/pattern/t6BHdn-pattern-clipart-ornamental-pattern-ornamental-transparent.png"); */
 }
 img {
   width: 80vw;
