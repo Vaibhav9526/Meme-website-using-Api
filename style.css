@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Danfo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Danfo&family=Press+Start+2P&display=swap');
 
 body {
-  bgcolor: #DBD3D3;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQixSvBbU_-_DP1mLjAjPjwJ_MmUvQG7V-upTUVW9PfEnWVIgFfGhjp6i7F14WyHqXAT4&usqp=CAU');
 }
 .container {
   width: 100%;
@@ -38,5 +38,5 @@ h1 {
   background: #024CAA;
   box-shadow: 5px 5px 5px rgb(0, 0, 0);
   color: #C62E2E;
-  font-family: "Danfo", serif;
+  font-family: "Press Start 2P", system-ui;
 }
