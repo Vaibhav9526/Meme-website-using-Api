@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Danfo&display=swap');
+
 body {
-  background-image: url("/bg.jpg");
+  bgcolor: #DBD3D3;
 }
 .container {
   width: 100%;
@@ -33,8 +35,8 @@ h1 {
   padding-left: 4rem;
   padding-right: 4rem;
   border-radius: 1vw;
-  background: rgba(0, 0, 0, 0.788);
+  background: #024CAA;
   box-shadow: 5px 5px 5px rgb(0, 0, 0);
-  color: rgb(245, 245, 245);
-  font-family: sans-serif;
+  color: #C62E2E;
+  font-family: "Danfo", serif;
 }
