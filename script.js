@@ -2,7 +2,7 @@
 
 function getMeme() {
   const imageRandom = document.getElementById("i");
-  const randomImageApiUrl = "https://meme-api.herokuapp.com/gimme";
+  const randomImageApiUrl = "https://meme-api.com/gimme";
   fetch(randomImageApiUrl)
     .then(function (response) {
       return response.json();
