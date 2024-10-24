@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Danfo&family=Press+Start+2P&display=swap');
 
 body {
-  background-repeat: no-repeat;
-  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQixSvBbU_-_DP1mLjAjPjwJ_MmUvQG7V-upTUVW9PfEnWVIgFfGhjp6i7F14WyHqXAT4&usqp=CAU');
+/*   background-repeat: no-repeat; */
+  background-image: url('/bg.jpg');
 }
 .container {
   width: 100%;
@@ -21,9 +21,10 @@ button {
   padding-right: 4rem;
   border-radius: 1vw;
   box-shadow: 5px 5px 5px black;
-  color: white;
+  color: black;
   background: #F3C623;
   border: none;
+  font-family: "Press Start 2P", system-ui;
 }
 @media screen and (min-width: 480px) {
   img {
@@ -38,6 +39,6 @@ h1 {
   border-radius: 1vw;
   background: #024CAA;
   box-shadow: 5px 5px 5px rgb(0, 0, 0);
-  color: #C62E2E;
+  color: white;
   font-family: "Press Start 2P", system-ui;
 }
