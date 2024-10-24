@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Danfo&family=Press+Start+2P&display=swap');
 
 body {
+  background-repeat: no-repeat;
   background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQixSvBbU_-_DP1mLjAjPjwJ_MmUvQG7V-upTUVW9PfEnWVIgFfGhjp6i7F14WyHqXAT4&usqp=CAU');
 }
 .container {
