@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Danfo&family=Press+Start+2P&display=swap');
 body{
-  background-image: url('/bg.jpg');
-  background-repeat: no-repeat;
+background: #FEFFA7;
+background-image: url("https://www.pngmart.com/files/13/Elegant-Pattern-PNG-Picture.png");
 }
 .container {
   width: 100%;
