@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Danfo&family=Press+Start+2P&display=swap');
 
 body {
-/*   background-repeat: no-repeat; */
   background-image: url('/bg.jpg');
+  background-repeat: no-repeat;
 }
 .container {
   width: 100%;
